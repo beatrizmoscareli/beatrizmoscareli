@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beatrizmoscareli
 - 👀 I’m interested in learn programming and information security
-- 🌱 I’m currently learning analysis and systems development
+- 🌱 I’m currently learning computer science
 - 📫 How to reach me beatrizmoscareli02@gmail.com
 - 😄 Pronouns: she/her
 
